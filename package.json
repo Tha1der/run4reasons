@@ -1,0 +1,19 @@
+{
+  "name": "run4reasons",
+  "version": "0.0.1",
+  "description": "Crypto Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tha1der/run4reasons.git"
+  },
+  "author": "Scott Verti and Michal McCaskel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tha1der/run4reasons/issues"
+  },
+  "homepage": "https://github.com/Tha1der/run4reasons#readme"
+}
